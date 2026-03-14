@@ -1,5 +1,5 @@
 {
-  "name": "Interactive Web Tool",
+  "name": "alilo ai",
   "description": "A clean, modern interface for user input and data display with real-time interaction.",
   "requestFramePermissions": ["microphone"]
 }
